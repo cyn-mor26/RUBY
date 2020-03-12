@@ -1,0 +1,5 @@
+1.- Creen el nuevo proyecto para que incluya DataMapper ( rails new project_name -m http://datamapper.org/templates/rails.rb )
+2.- COPIEN por completo la carpeta app desde sus proyectos al proyecto nuevo, haciendo un completo REEMPLAZO.
+3.- COPIEN y REEMPLAZEN el archivo config/routes.rb del proyecto nuevo por el de sus proyectos originales.
+4.- Recuerden configurar adecuadamente el archivo config/applicaction.rb para que DataMapper lanze excepciones en caso de errores (ver PPT de la clase), y también configurar su conexión a la base de datos en config/database.yml. (ver PPT de la clase)
+Saludos !
